@@ -1,2 +1,1 @@
-# newbayer
-新拜耳
+load
